@@ -1,4 +1,11 @@
-## Electron application is startup with white screen!..
+---
+title: "Electron application is startup with white screen!.."
+datePublished: Thu Mar 12 2020 08:05:28 GMT+0000 (Coordinated Universal Time)
+cuid: ck7ogwby100ar69s1r510w6u7
+slug: electron-application-is-startup-with-white-screen
+tags: javascript, electron
+
+---
 
 Hi folks,
 
